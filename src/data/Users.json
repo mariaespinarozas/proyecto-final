@@ -1,0 +1,38 @@
+[
+    {
+     "id": 2,
+     "name": "Eowyn",
+     "last_name": "Istar",
+     "email": "eowynn@tolkien.com",
+     "password": "elvi1984",
+     "phone": "5699969855",
+     "country": "Middle_Earth",
+    },
+    {
+     "id": 3,
+     "name": "Bilbo",
+     "last_name": "Baggins",
+     "email": "bilbo@lacomarca.com",
+     "password": "bilbo598",
+     "phone": "5696986724",
+     "country": "Comarca",
+    },
+    {
+     "id": 4,
+     "name": "Galadriel",
+     "last_name": "Istar",
+     "email": "gal.istar@gmail.com",
+     "password": "Galadrielbonita123",
+     "phone": "5699919687",
+     "country": "Elfos",
+    },
+    {
+     "id": 5,
+     "name": "Catalina",
+     "last_name": "Diaz",
+     "email": "cata@ecoescuela.com",
+     "password": "$2a$10$Tb1mnF2BOiZHoP2rkDZu3.j6xHXUGTye7orMGTdtyoxszuq.rTxHe",
+     "phone": "56233317911",
+     "country": "Chile",
+    },    
+   ]
