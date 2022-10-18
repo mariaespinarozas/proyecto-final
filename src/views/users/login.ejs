@@ -1,0 +1,44 @@
+<div class="form-body">
+    <div class="row">
+        <div class="form-holder">
+            <div class="form-content">
+                <div class="form-items">
+                    <h3>Registro</h3>
+                    <p>Ingresa tus datos</p>
+                    <form class="requires-validation" novalidate>
+
+                        <div class="col-md-12">
+                           <input class="form-control" type="text" name="name" placeholder="Full Name" required>
+                           <div class="valid-feedback">nombre de usuario válido!</div>
+                           <div class="invalid-feedback">Debe tener nombre de usuario!</div>
+                        </div>
+
+                        <div class="col-md-12">
+                            <input class="form-control" type="email" name="email" placeholder="E-mail Address" required>
+                             <div class="valid-feedback">Email válido!</div>
+                             <div class="invalid-feedback">Debe tener Email!</div>
+                        </div>
+
+            
+                       <div class="col-md-12">
+                          <input class="form-control" type="password" name="password" placeholder="Password" required>
+                           <div class="valid-feedback">Contraseña válida!</div>
+                           <div class="invalid-feedback">Debes tener contraseña!</div>
+                       </div>
+
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
+                      <label class="form-check-label">Confirmo que los datos son correctos</label>
+                     <div class="invalid-feedback">Asegúrate de que los datos sean los correctos!</div>
+                    </div>
+              
+
+                        <div class="form-button mt-3">
+                            <button id="submit" type="submit" class="btn btn-primary">Registrarse</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
